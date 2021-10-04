@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/65299153/135862943-c5cdff93-87d1-4c2d-a379-6d54c3d14923.jpg" alt="banner" width="845px"  />
+<img src="" alt="banner" width="845px"  />
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ctzxvulkan&show_icons=true&theme=nord&hide_border=true&include_all_commits=true&count_private=true&hide=stars&line_height=24&bg_color=22272E&text_color=ffffff)
