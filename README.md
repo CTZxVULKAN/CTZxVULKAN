@@ -1,5 +1,5 @@
 
-<img src="https://user-images.githubusercontent.com/65299153/135800391-e776974d-2f73-4a03-9b4e-be52b89745ed.jpg" alt="banner" width="845px" />
+<img src="https://user-images.githubusercontent.com/65299153/135800391-e776974d-2f73-4a03-9b4e-be52b89745ed.jpg" alt="banner" width="845px" height="288px" />
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ctzxvulkan&show_icons=true&theme=nord&hide_border=true&include_all_commits=true&count_private=true&hide=stars&line_height=24&bg_color=22272E&text_color=ffffff)
