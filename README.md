@@ -1,11 +1,3 @@
-<p align="center" >
- <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="60" />
-</p>
-
-<h1 align="center">VULKAN </h1>
-
-
-
 <img src=""  alt=" " width="845px"  />
 
 
